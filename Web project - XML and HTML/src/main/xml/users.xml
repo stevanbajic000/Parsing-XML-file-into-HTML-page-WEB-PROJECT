@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><data>
+    <continent name="Europe">
+        <country name="France">
+
+        </country>
+        <country name="United Kingdom">
+            <!-- Users -->
+
+
+        </country>
+        <country name="Germany">
+            <!-- Users -->
+
+
+        </country>
+    </continent>
+    <continent name="North America">
+        <country name="United States">
+
+            
+        </country>
+        <country name="Canada">
+
+        </country>
+    </continent>
+    <continent name="Asia">
+
+        <country name="Japan">
+
+        </country>
+
+        <country name="China">
+
+
+        </country>
+
+    </continent>
+</data>
